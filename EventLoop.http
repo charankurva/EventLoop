@@ -1,0 +1,6 @@
+@EventLoop_HostAddress = http://localhost:5072
+
+GET {{EventLoop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
